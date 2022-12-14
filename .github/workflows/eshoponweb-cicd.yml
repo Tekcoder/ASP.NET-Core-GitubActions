@@ -6,7 +6,7 @@ on: [push, workflow_dispatch]
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
   RESOURCE-GROUP: rg-aspdot-net-2023
-  LOCATION: eastus
+  LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: eb3cda28-22e6-400f-85a2-ea29314b0e34
   WEBAPP-NAME: az400-webapp-ASPDOT_CORE_APP
