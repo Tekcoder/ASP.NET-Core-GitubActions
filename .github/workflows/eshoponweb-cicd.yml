@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: eb3cda28-22e6-400f-85a2-ea29314b0e34
-  WEBAPP-NAME: az400-webapp-ASPDOT_CORE_APP
+  WEBAPP-NAME: az400-webapp-ASPDOT_CORE
 
 
 jobs:
